@@ -62,7 +62,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: subpixel-antialiased;
-  background: url('../img/Background Test.jpg') no-repeat center center fixed;
+  background: url('../img/BackgroundTest.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
