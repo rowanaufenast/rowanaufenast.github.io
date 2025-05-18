@@ -27,7 +27,7 @@
   color: #EB8022;
 }
 .color2 {
-  color: #021533;
+  color: #AF5E16;
 }
 .color3 {
   color: #d9212a;
@@ -121,7 +121,7 @@ a:focus {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background: #021533;
+  background: #AF5E16;
   z-index: -1;
 }
 .btn-default:hover {
@@ -146,12 +146,12 @@ a:focus {
 }
 .btn-default2 {
   font-size: 9px;
-  background: #021533;
+  background: #AF5E16;
   font-weight: lighter;
 }
 .btn-nobg {
   background-color: transparent;
-  border: 1px solid #021533;
+  border: 1px solid #AF5E16;
   border-radius: 0;
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
@@ -163,10 +163,10 @@ a:focus {
   padding-top: 10px;
   padding-left: 20px;
   padding-right: 20px;
-  color: #021533;
+  color: #AF5E16;
 }
 .btn-nobg:hover {
-  background: #021533;
+  background: #AF5E16;
   color: #ffffff;
 }
 iframe {
@@ -571,7 +571,7 @@ iframe {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background: #021533;
+  background: #AF5E16;
   z-index: -1;
 }
 .main-menu-list a:hover {
@@ -585,7 +585,7 @@ iframe {
 }
 .main-menu-list a.menuActive {
   text-decoration: none;
-  background: #021533;
+  background: #AF5E16;
   padding-left: 15px;
 }
 /* ==========================================================
@@ -631,7 +631,7 @@ iframe {
   font-size: 36px;
   letter-spacing: -2px;
   margin-bottom: 8px;
-  color: #021533;
+  color: #AF5E16;
 }
 .profile-subtitle {
   text-align: center;
@@ -673,13 +673,13 @@ iframe {
 ! 09. Content
 ========================================================== */
 .section-title {
-  color: #021533;
+  color: #AF5E16;
   text-transform: uppercase;
   font-size: 22px;
   line-height: 26px;
   font-weight: bold;
   margin-top: 0;
-  border-bottom: 1px solid #021533;
+  border-bottom: 1px solid #AF5E16;
   padding-bottom: 10px;
   margin-bottom: 40px;
 }
@@ -702,7 +702,7 @@ iframe {
 }
 .section-item-title-1 {
   font-weight: bold;
-  color: #021533;
+  color: #AF5E16;
   color: #333;
   padding-left: 0;
   margin-left: 0;
@@ -714,7 +714,7 @@ iframe {
 }
 .section-item-title-2 {
   font-weight: bold;
-  color: #021533;
+  color: #AF5E16;
   color: #333;
   padding-left: 0;
   margin-left: 0;
@@ -723,7 +723,7 @@ iframe {
   margin: 0;
   margin-bottom: 8px;
   letter-spacing: -1px;
-  border-bottom: 1px dotted #021533;
+  border-bottom: 1px dotted #AF5E16;
   padding-bottom: 5px;
   font-size: 15px;
 }
@@ -907,7 +907,7 @@ iframe {
   background-color: #ffffff;
 }
 .owl-controls-wrapper2 .owl-controls .owl-page.active {
-  background: #021533;
+  background: #AF5E16;
 }
 .owl-controls-wrapper2 .owl-pagination,
 .owl-controls-wrapper2 .owl-buttons {
@@ -926,7 +926,7 @@ iframe {
   font-size: 14px;
 }
 .owl-controls-wrapper2 .owl-buttons > div:hover {
-  color: #021533;
+  color: #AF5E16;
 }
 .owl-controls-wrapper2 .owl-mtop .owl-wrapper-outer {
   padding-top: 40px;
@@ -958,13 +958,13 @@ iframe {
   opacity: 0.8;
 }
 .owl-controls-wrapper2 .owl-controls .owl-page.active {
-  background: #021533;
+  background: #AF5E16;
 }
 .owl-pagination .owl-page span {
-  background: #021533;
+  background: #AF5E16;
 }
 .owl-pagination .active span {
-  background: #021533 !important;
+  background: #AF5E16 !important;
 }
 /* ==========================================================
 ! 12. SECTION: SKILLS
@@ -1003,7 +1003,7 @@ iframe {
   width: 20%;
 }
 .progress-bar-2 {
-  background: #021533;
+  background: #AF5E16;
 }
 .progress-bar-3 {
   background: #d9212a;
@@ -1208,7 +1208,7 @@ span.see-more {
   padding: 10px 20px;
 }
 .modal-content .modal-title {
-  color: #021533;
+  color: #AF5E16;
   font-size: 22px;
   border-bottom: 1px solid #ccc;
   margin-bottom: 5px;
