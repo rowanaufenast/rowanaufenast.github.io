@@ -1104,7 +1104,6 @@ iframe {
 }
 span.see-more {
   font-style: italic;
-  text-transform: lowercase;
   letter-spacing: 3px;
   font-size: 12px;
   -webkit-transition: all 0.4s ease-in-out;
