@@ -606,7 +606,7 @@ iframe {
 }
 .vcard-profile-pic img {
   width: 100%;
-  border-radius: 100%;
+  border-radius: 50%;
   -moz-border-radius: 100%;
   -webkit-border-radius: 100%;
   border: 6px solid #ddd;
