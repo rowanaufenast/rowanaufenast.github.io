@@ -77,7 +77,7 @@ a:focus {
 .btn {
   font-weight: bold;
   color: #ffffff;
-  background: #08aeac;
+  background: #EB8022;
   border-radius: 0;
   font-size: 12px;
   padding: 10px 20px;
@@ -182,7 +182,7 @@ iframe {
   width: 100%;
   height: 100%;
   background: #008c8a;
-  color: #08aeac;
+  color: #EB8022;
   opacity: 0.99;
   position: fixed;
   top: 0;
@@ -372,7 +372,7 @@ iframe {
 }
 .footer-social-icons a:hover {
   color: #ffffff;
-  background: #08aeac;
+  background: #EB8022;
 }
 .fa-linkedin {
   background: #007bb5;
@@ -544,7 +544,7 @@ iframe {
 }
 .main-menu-list a {
   display: block;
-  background: #08aeac;
+  background: #EB8022;
   padding: 10px;
   color: #ffffff;
   text-transform: uppercase;
@@ -662,7 +662,7 @@ iframe {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   padding: 10px;
-  background: url('../img/bg-btn.png') no-repeat center center #08aeac;
+  background: url('../img/bg-btn.png') no-repeat center center #EB8022;
 }
 .vcard-profile-description-ft-item p {
   margin-bottom: 0;
@@ -685,7 +685,7 @@ iframe {
 }
 .section-title2 {
   font-weight: bold;
-  color: #08aeac;
+  color: #EB8022;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: -1px;
@@ -693,7 +693,7 @@ iframe {
   padding-left: 15px;
   padding-top: 5px;
   padding-bottom: 5px;
-  border-left: 4px solid #08aeac;
+  border-left: 4px solid #EB8022;
 }
 .resume-item {
   padding: 15px;
@@ -791,7 +791,7 @@ iframe {
   font-weight: bold;
 }
 .testimonial-content {
-  background: url('../img/bgmask2.png') no-repeat center center #08aeac;
+  background: url('../img/bgmask2.png') no-repeat center center #EB8022;
   color: #ffffff;
   padding: 20px;
   border-radius: 10px;
@@ -818,7 +818,7 @@ iframe {
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
   z-index: 888;
-  background: #08aeac;
+  background: #EB8022;
 }
 .testimonial-picture {
   width: 110px;
@@ -999,7 +999,7 @@ iframe {
   margin-bottom: 40px;
 }
 .progress-bar {
-  background: #08aeac;
+  background: #EB8022;
   width: 20%;
 }
 .progress-bar-2 {
@@ -1136,14 +1136,14 @@ span.see-more {
 ! 17. SECTION: Contact
 ========================================================== */
 .contact-subtitle-1 {
-  color: #08aeac;
+  color: #EB8022;
   font-size: 14px;
   letter-spacing: -1px;
   font-weight: bold;
   margin-bottom: 8px;
   margin-top: 25px;
   padding-bottom: 5px;
-  border-bottom: 1px dotted #08aeac;
+  border-bottom: 1px dotted #EB8022;
 }
 .contact-subtitle-1:first-child {
   margin-top: 0;
